@@ -1,1 +1,1 @@
-JavaScript is amazing
+Console.log("JavaScript is amazing") 
