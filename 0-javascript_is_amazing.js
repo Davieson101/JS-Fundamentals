@@ -1,1 +1,2 @@
-Console.log("JavaScript is amazing");
+const myVar = "JavaScript is amazing";
+consol.log(myVar);
